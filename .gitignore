@@ -10,5 +10,3 @@ Thumbs.db
 dist/
 build/
 *.spec
-# Per-user key bindings, generated on first run
-mapping.json
