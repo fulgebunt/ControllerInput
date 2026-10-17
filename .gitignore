@@ -10,3 +10,6 @@ Thumbs.db
 dist/
 build/
 *.spec
+
+# Project notes for Claude
+CLAUDE.md
